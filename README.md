@@ -1,2 +1,3 @@
 # SRE-Github-Lab
-Requirements documentation for a Student Task Tracker
+Requirements documentation for a Restaurant Management System
+
